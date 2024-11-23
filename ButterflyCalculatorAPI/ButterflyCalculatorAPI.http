@@ -1,0 +1,6 @@
+@ButterflyCalculatorAPI_HostAddress = http://localhost:5145
+
+GET {{ButterflyCalculatorAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
