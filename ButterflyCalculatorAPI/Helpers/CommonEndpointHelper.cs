@@ -1,4 +1,4 @@
-﻿namespace ButterflyCalculatorAPI.Endpoints
+﻿namespace ButterflyCalculatorAPI.Helpers
 {
     public static class CommonEndpointHelper
     {
